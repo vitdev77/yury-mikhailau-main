@@ -1,0 +1,191 @@
+{
+  "Index": {
+    "siteWelcomeText": "Hi! Welcome to my personal CV page",
+    "personal": {
+      "title": "Personal",
+      "myFirstName": "Yury",
+      "mySecondName": "Mikhailau",
+      "myEmail": { "title": "E-mail", "data": "jerzy.michailow@gmail.com" },
+      "myPhone": { "title": "Phone number", "data": "+48 577 461 127" },
+      "myDreamPosition": "Electronics Engineer",
+      "myDreamPositionDesc": "Committed to work as an electronics engineer with experience in the Radioelectronics industry. Thanks to the skills acquired in previous jobs, I know how to function in a large team to achieve the intended goals together.",
+      "legal": "I agree to the processing of personal data provided in this document for realising the recruitment process pursuant to the Personal Data Protection Act of 10 May 2018 (Journal of Laws 2018, item 1000) and in agreement with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)."
+    },
+    "experience": {
+      "title": "Experience",
+      "positionItems": {
+        "item_4": {
+          "dateStart": "09.2023",
+          "dateEnd": "present",
+          "position": "Precision elements fitter",
+          "place": "Demant Operations Poland Sp. z o.o., Szczecin, Poland",
+          "listTitle": "Responsibilities:",
+          "listItems": {
+            "listItem_1": "Carrying out repairs to the company's production",
+            "listItem_2": "Visual assessment of the quality of soldering of boards",
+            "listItem_3": "Reading radio electric diagrams",
+            "listItem_4": "Compliance with H & S and ESD standards",
+            "listItem_5": "Designing Arduino schematics and code at beginner and intermediate levels"
+          }
+        },
+        "item_3": {
+          "dateStart": "02.2023",
+          "dateEnd": "09.2023",
+          "position": "Warehouse worker",
+          "place": "Autodoc Logistics, Szczecin, Poland",
+          "listTitle": "Responsibilities:",
+          "listItems": {
+            "listItem_1": "Picking and packing parcels",
+            "listItem_2": "Keeping records of goods",
+            "listItem_3": "Maintaining order and organization of the warehouse"
+          }
+        },
+        "item_2": {
+          "dateStart": "09.2020",
+          "dateEnd": "01.2023",
+          "position": "CAD designer - aircraft industry and mechanical engineering",
+          "place": "Aircraft Repair Plant, Baranavichy, Belarus",
+          "listTitle": "Responsibilities:",
+          "listItems": {
+            "listItem_1": "Pre-planning of power elements of engines and aircraft components",
+            "listItem_2": "Advice and control of the manufacturing process",
+            "listItem_3": "Supervision of the assembly of the production parts at the installation site",
+            "listItem_4": "Preparation of documentation in accordance with the company's standards"
+          }
+        },
+        "item_1": {
+          "dateStart": "08.2015",
+          "dateEnd": "07.2020",
+          "position": "Radioelectronics Engineer",
+          "place": "Radiotechnical Battalion of the Air Force, Lida, Belarus",
+          "listTitle": "Responsibilities:",
+          "listItems": {
+            "listItem_1": "Personnel Management",
+            "listItem_2": "Diagnostics of radiolocation and radionavigation devices"
+          }
+        }
+      }
+    },
+    "education": {
+      "title": "Education",
+      "positionItems": {
+        "item_1": {
+          "dateStart": "09.2010",
+          "dateEnd": "06.2015",
+          "position": "Radioelectronics and radio engineering, Engineer",
+          "place": "Minsk Radio Technical University, Minsk, Belarus",
+          "listTitle": "Abilities:",
+          "listItems": {
+            "listItem_1": "Reading radio-electrical diagrams",
+            "listItem_2": "Reading technical documentation",
+            "listItem_3": "Repair of radio-electrical equipment",
+            "listItem_4": "Design of radio-electrical installations"
+          }
+        }
+      }
+    },
+    "skills_1": {
+      "title": "Skills",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Computer",
+          "stars": "5"
+        },
+        "skillItem_2": {
+          "data": "Office equipment support (printer, scanner)",
+          "stars": "5"
+        },
+        "skillItem_3": {
+          "data": "Independence and very good work organization",
+          "stars": "5"
+        },
+        "skillItem_4": {
+          "data": "Ability to work in a team",
+          "stars": "5"
+        },
+        "skillItem_5": {
+          "data": "Communication",
+          "stars": "4"
+        },
+        "skillItem_6": {
+          "data": "Creativity",
+          "stars": "4"
+        }
+      }
+    },
+    "skills_2": {
+      "title": "Software",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Microsoft Word",
+          "stars": "5"
+        },
+        "skillItem_2": {
+          "data": "Microsoft Excel",
+          "stars": "4"
+        },
+        "skillItem_3": {
+          "data": "SolidWorks (3D)",
+          "stars": "4"
+        },
+        "skillItem_4": {
+          "data": "Siemens NX (3D)",
+          "stars": "3"
+        },
+        "skillItem_5": {
+          "data": "Kompas (3D)",
+          "stars": "5"
+        },
+        "skillItem_6": {
+          "data": "Adobe Photoshop",
+          "stars": "3"
+        },
+        "skillItem_7": {
+          "data": "Sony Vegas",
+          "stars": "4"
+        }
+      }
+    },
+    "skills_3": {
+      "title": "Languages",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Polish",
+          "stars": "3"
+        },
+        "skillItem_2": {
+          "data": "Belarusian",
+          "stars": "5"
+        },
+        "skillItem_3": {
+          "data": "Russian",
+          "stars": "5"
+        },
+        "skillItem_4": {
+          "data": "English",
+          "stars": "3"
+        }
+      }
+    },
+    "interests": {
+      "title": "Interests",
+      "text": "I am interested in computers and new technologies, so working at Demant will be additionally motivating for me and will give me a lot of joy."
+    },
+    "cookies": {
+      "text": "We use cookies for many purposes, including to improve your experience on our site.",
+      "acceptButtonText": "Accept All",
+      "rejectButtonText": "Reject All"
+    }
+  },
+  "Metadata": {
+    "title": "My Personal CV Page",
+    "siteUrl": "https://yury-mikhailau.vercel.app",
+    "description": "",
+    "keywords": "Yury, Mikhailau, personal, work, engineering, aircraft",
+    "ogImage": "",
+    "links": {
+      "twitter": "",
+      "github": ""
+    }
+  }
+}

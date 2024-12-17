@@ -1,0 +1,191 @@
+{
+  "Index": {
+    "siteWelcomeText": "Cześć! Witam na mojej stronie z osobistym CV",
+    "personal": {
+      "title": "Dane osobowe",
+      "myFirstName": "Yury",
+      "mySecondName": "Mikhailau",
+      "myEmail": { "title": "E-mail", "data": "jerzy.michailow@gmail.com" },
+      "myPhone": { "title": "Numer Telefonu", "data": "+48 577 461 127" },
+      "myDreamPosition": "Inżynier Elektronik",
+      "myDreamPositionDesc": "Zaangażowany w pracę na stanowisku inżyniera elektroniki, z doświadczeniem branży Radioelektroniki. Dzięki umiejętnościom zdobytym na poprzednich stanowiskach pracy, wiem, jak funkcjonować w dużym zespole, by razem osiągać zamierzone cele.",
+      "legal": "Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z ustawą z dnia 10 maja 2018 roku o ochronie danych osobowych (Dz. Ustaw z 2018, poz. 1000) oraz zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO)."
+    },
+    "experience": {
+      "title": "Doświadczenie",
+      "positionItems": {
+        "item_4": {
+          "dateStart": "09.2023",
+          "dateEnd": "obecnie",
+          "position": "Pracownik produkcji",
+          "place": "Demant Operations Poland Sp. z o.o., Szczecin, Polska",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Przeprowadzanie napraw produkcji firmy",
+            "listItem_2": "Wizualna ocena jakości lutowania płytek",
+            "listItem_3": "Czytanie schematów radioelektrycznych",
+            "listItem_4": "Zgodność ze standardami BHP i ESD",
+            "listItem_5": "Projektowanie schematów i kodu dla Arduino na poziomie początkującym i średnim"
+          }
+        },
+        "item_3": {
+          "dateStart": "02.2023",
+          "dateEnd": "09.2023",
+          "position": "Pracownik magazynowy",
+          "place": "Autodoc Logistics, Szczecin, Polska",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Kompletacja i pakowanie paczek",
+            "listItem_2": "Prowadzenie ewidencji towarów",
+            "listItem_3": "Utrzymywanie porządku oraz organizacja magazynu"
+          }
+        },
+        "item_2": {
+          "dateStart": "09.2020",
+          "dateEnd": "01.2023",
+          "position": "Projektant CAD - przemysł lotniczy i budowa maszyn",
+          "place": "Lotniczy Zakład Remontowy, Baranowicze, Białoruś",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Wstępne planowanie elementów mocy silników i podzespołów samolotów",
+            "listItem_2": "Doradztwo i kontrola procesu produkcyjnego",
+            "listItem_3": "Nadzór nad montażem części produkcyjnych na miejscu instalacji",
+            "listItem_4": "Przygotowywanie dokumentacji zgodnie ze standardami firmy"
+          }
+        },
+        "item_1": {
+          "dateStart": "08.2015",
+          "dateEnd": "07.2020",
+          "position": "Inżynier Radioelektronik",
+          "place": "Batalion Radiotechniczne Wojsk Lotniczych, Lida, Białoruś",
+          "listTitle": "Obowiązki:",
+          "listItems": {
+            "listItem_1": "Zarządzanie personelem",
+            "listItem_2": "Diagnostyka urządzeń Radiolokacji i Radionawigacji"
+          }
+        }
+      }
+    },
+    "education": {
+      "title": "Wykształcenie",
+      "positionItems": {
+        "item_1": {
+          "dateStart": "09.2010",
+          "dateEnd": "06.2015",
+          "position": "Radioelektronika i Radiotechnika, Inżynier",
+          "place": "Uniwersytet Radiotechniczny w Mińsku, Mińsk, Białoruś",
+          "listTitle": "Umiejętności:",
+          "listItems": {
+            "listItem_1": "Czytanie schematów radioelektrycznych",
+            "listItem_2": "Odczytywanie dokumentacji technicznej",
+            "listItem_3": "Naprawa urządzeń radioelektrycznych",
+            "listItem_4": "Projektowanie instalacji radioelektrycznej"
+          }
+        }
+      }
+    },
+    "skills_1": {
+      "title": "Umiejętności",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Obsługa komputera",
+          "stars": "5"
+        },
+        "skillItem_2": {
+          "data": "Obsługa urządzeń biurowych (drukarka, skaner)",
+          "stars": "5"
+        },
+        "skillItem_3": {
+          "data": "Samodzielność i bardzo dobra organizacja pracy",
+          "stars": "5"
+        },
+        "skillItem_4": {
+          "data": "Umiejętność pracy w zespole",
+          "stars": "5"
+        },
+        "skillItem_5": {
+          "data": "Komunikatywność",
+          "stars": "4"
+        },
+        "skillItem_6": {
+          "data": "Kreatywność",
+          "stars": "4"
+        }
+      }
+    },
+    "skills_2": {
+      "title": "Oprogramowanie",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Microsoft Word",
+          "stars": "5"
+        },
+        "skillItem_2": {
+          "data": "Microsoft Excel",
+          "stars": "4"
+        },
+        "skillItem_3": {
+          "data": "SolidWorks (3D)",
+          "stars": "4"
+        },
+        "skillItem_4": {
+          "data": "Siemens NX (3D)",
+          "stars": "3"
+        },
+        "skillItem_5": {
+          "data": "Kompas (3D)",
+          "stars": "5"
+        },
+        "skillItem_6": {
+          "data": "Adobe Photoshop",
+          "stars": "3"
+        },
+        "skillItem_7": {
+          "data": "Sony Vegas",
+          "stars": "4"
+        }
+      }
+    },
+    "skills_3": {
+      "title": "Języki",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Polski",
+          "stars": "3"
+        },
+        "skillItem_2": {
+          "data": "Białoruski",
+          "stars": "5"
+        },
+        "skillItem_3": {
+          "data": "Rosyjski",
+          "stars": "5"
+        },
+        "skillItem_4": {
+          "data": "Angielski",
+          "stars": "3"
+        }
+      }
+    },
+    "interests": {
+      "title": "Zainteresowania",
+      "text": "Interesuję się komputerami oraz nowymi technologiami, dlatego praca w firmie Demant będzie dla mnie dodatkowo motywująca i sprawi mi wiele radości."
+    },
+    "cookies": {
+      "text": "Ta strona korzysta z plików cookies, aby zapewnić najlepszą jakość korzystania z naszej witryny.",
+      "acceptButtonText": "Akceptuj wszystkie",
+      "rejectButtonText": "Odrzuć wszystkie"
+    }
+  },
+  "Metadata": {
+    "title": "Moje osobiste CV",
+    "siteUrl": "https://yury-mikhailau.vercel.app",
+    "description": "",
+    "keywords": "Yury, Mikhailau, personal, work, engineering, aircraft",
+    "ogImage": "",
+    "links": {
+      "twitter": "",
+      "github": ""
+    }
+  }
+}

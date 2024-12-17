@@ -1,0 +1,191 @@
+{
+  "Index": {
+    "siteWelcomeText": "Hallo! Willkommen auf meiner persönlichen Lebenslauf Seite",
+    "personal": {
+      "title": "Persönliche Daten",
+      "myFirstName": "Yury",
+      "mySecondName": "Mikhailau",
+      "myEmail": { "title": "E-mail", "data": "jerzy.michailow@gmail.com" },
+      "myPhone": { "title": "Telefonnummer", "data": "+48 577 461 127" },
+      "myDreamPosition": "Elektronikingenieur",
+      "myDreamPositionDesc": "Engagiert als Elektronikingenieur mit Erfahrung in der Radioelektronikindustrie. Dank der in früheren Tätigkeiten erworbenen Fähigkeiten weiß ich, wie man in einem großen Team funktioniert, um gemeinsam die angestrebten Ziele zu erreichen.",
+      "legal": "Ich bin einverstanden, dass meine in diesem Arbeitsangebot enthaltenen personalen Daten durch die Firma für die Rekrutierungszwecke verwendet werden, gemäβ dem Gesetz vom 29.08.1997 über den Schutz der Personaldaten (Gesetzblatt von 2016, Pos. 922 mit späteren Änderungen)."
+    },
+    "experience": {
+      "title": "Berufserfahrung",
+      "positionItems": {
+        "item_4": {
+          "dateStart": "09/2023",
+          "dateEnd": "heute",
+          "position": "Technischer Präzisionselementsmitarbeiter",
+          "place": "Demant Operations Poland Sp. z o.o., Stettin, Polen",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Durchführung von Reparaturen an der Produktion des Unternehmens",
+            "listItem_2": "Visuelle Beurteilung der Lötqualität von Platinen",
+            "listItem_3": "Lesen von Radioschaltplänen",
+            "listItem_4": "Einhaltung von Gesundheits- und Sicherheits- sowie ESD-Standards",
+            "listItem_5": "Entwerfen von Diagrammen und Code für Arduino für Anfänger und Fortgeschrittene"
+          }
+        },
+        "item_3": {
+          "dateStart": "02/2023",
+          "dateEnd": "09/2023",
+          "position": "Lagerarbeiter",
+          "place": "Autodoc Logistics, Stettin, Polen",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Kommissionierung und Verpackung von Paketen",
+            "listItem_2": "Führen von Warenaufzeichnungen",
+            "listItem_3": "Aufrechterhaltung der Ordnung und Organisation des Lagers"
+          }
+        },
+        "item_2": {
+          "dateStart": "09/2020",
+          "dateEnd": "01/2023",
+          "position": "CAD-Konstrukteur - Flugzeugindustrie und Maschinenbau",
+          "place": "Flugzeugreparaturwerk, Baranowitschi, Weißrussland",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Vorplanung von Kraftelementen von Triebwerken und Bestandteilen der Flugzeuge",
+            "listItem_2": "Beratung und Kontrolle des Fertigungsprozesses",
+            "listItem_3": "Betreuung der Montage der Fertigungsteile am Aufstellungsort",
+            "listItem_4": "Erstellung der Dokumentation in Übereinstimmung mit den Normen des Unternehmens"
+          }
+        },
+        "item_1": {
+          "dateStart": "08/2015",
+          "dateEnd": "07/2020",
+          "position": "Ingenieur Elektroniker",
+          "place": "Funktechnisches Bataillon der Luftwaffe, Lida, Weißrussland",
+          "listTitle": "Verantwortlichkeiten:",
+          "listItems": {
+            "listItem_1": "Personalmanagement",
+            "listItem_2": "Diagnostik von Funkortungs- und Funknavigationsgeräten"
+          }
+        }
+      }
+    },
+    "education": {
+      "title": "Ausbildung",
+      "positionItems": {
+        "item_1": {
+          "dateStart": "09/2010",
+          "dateEnd": "06/2015",
+          "position": "Radioelektronik und Funktechnik, Ingenieur",
+          "place": "Radiotechnische Universität Minsk, Minsk, Weißrussland",
+          "listTitle": "Fähigkeiten:",
+          "listItems": {
+            "listItem_1": "Lesen von funkelektrischen Diagrammen",
+            "listItem_2": "Lesen technischer Dokumentation",
+            "listItem_3": "Reparatur von radioelektrischen Geräten",
+            "listItem_4": "Entwurf von funkelektrischen Anlagen"
+          }
+        }
+      }
+    },
+    "skills_1": {
+      "title": "Fähigkeiten",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Computer",
+          "stars": "5"
+        },
+        "skillItem_2": {
+          "data": "Support für Bürogeräte (Drucker, Scanner)",
+          "stars": "5"
+        },
+        "skillItem_3": {
+          "data": "Unabhängigkeit und sehr gute Arbeitsorganisation",
+          "stars": "5"
+        },
+        "skillItem_4": {
+          "data": "Teamfähigkeit",
+          "stars": "5"
+        },
+        "skillItem_5": {
+          "data": "Kommunikation",
+          "stars": "4"
+        },
+        "skillItem_6": {
+          "data": "Kreativität",
+          "stars": "4"
+        }
+      }
+    },
+    "skills_2": {
+      "title": "EDV-Kenntnisse",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Microsoft Word",
+          "stars": "5"
+        },
+        "skillItem_2": {
+          "data": "Microsoft Excel",
+          "stars": "4"
+        },
+        "skillItem_3": {
+          "data": "SolidWorks (3D)",
+          "stars": "4"
+        },
+        "skillItem_4": {
+          "data": "Siemens NX (3D)",
+          "stars": "3"
+        },
+        "skillItem_5": {
+          "data": "Kompas (3D)",
+          "stars": "5"
+        },
+        "skillItem_6": {
+          "data": "Adobe Photoshop",
+          "stars": "3"
+        },
+        "skillItem_7": {
+          "data": "Sony Vegas",
+          "stars": "4"
+        }
+      }
+    },
+    "skills_3": {
+      "title": "Sprachen",
+      "skillItems": {
+        "skillItem_1": {
+          "data": "Polnisch",
+          "stars": "3"
+        },
+        "skillItem_2": {
+          "data": "Weißrussisch",
+          "stars": "5"
+        },
+        "skillItem_3": {
+          "data": "Russisch",
+          "stars": "5"
+        },
+        "skillItem_4": {
+          "data": "Englisch",
+          "stars": "3"
+        }
+      }
+    },
+    "interests": {
+      "title": "Interessen",
+      "text": "Ich interessiere mich für Computer und neue Technologien, daher wird die Arbeit bei Demant für mich zusätzlich motivierend sein und mir viel Freude bereiten."
+    },
+    "cookies": {
+      "text": "Wir verwenden Cookies für viele Zwecke, unter anderem um Ihr Erlebnis auf unserer Website zu verbessern.",
+      "acceptButtonText": "Alle akzeptieren",
+      "rejectButtonText": "Alles ablehnen"
+    }
+  },
+  "Metadata": {
+    "title": "Meine persönliche Lebenslaufseite",
+    "siteUrl": "https://yury-mikhailau.vercel.app",
+    "description": "",
+    "keywords": "Yury, Mikhailau, personal, work, engineering, aircraft",
+    "ogImage": "",
+    "links": {
+      "twitter": "",
+      "github": ""
+    }
+  }
+}
